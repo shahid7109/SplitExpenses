@@ -1,0 +1,1 @@
+c:\users\mks\documents\visual studio 2015\Projects\splitexpenses\splitexpenses\bin\Debug\splitexpenses.exe.config
